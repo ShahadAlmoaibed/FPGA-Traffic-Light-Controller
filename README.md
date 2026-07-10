@@ -1,7 +1,7 @@
 # FPGA Traffic Light Controller
 
 ## Course
-COE 203 - Digital Logic Laboratory
+Digital Logic Laboratory
 
 ## Description
 Designed and implemented an FPGA-based smart pedestrian crossing system using Verilog and Xilinx ISE Design Suite. The system controls three traffic roads and one pedestrian crossing signal while managing traffic priorities and timing sequences.
